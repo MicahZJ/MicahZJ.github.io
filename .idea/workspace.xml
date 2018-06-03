@@ -2,87 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94c7216-2f8a-4b01-9c22-c0967038caf7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/css/9.styles.caeb01f1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/img/search.83621669.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/0.cbedce54.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/1.668d28a5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/2.88150e24.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/3.1e2a92d1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/4.26a8d3e6.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/5.62bd4b1b.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/6.0e230962.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/7.fc962e73.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/8.608e20e2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/js/app.d8b491f3.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/9.styles.caeb01f1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/default-theme-config/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/frontEnd/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/hero.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/hero1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/1527950101034.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-chrome-192x192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-chrome-512x512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon-180x180.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/msapplication-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/mstile-150x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/safari-pinned-tab.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/img/search.83621669.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/0.cbedce54.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/1.668d28a5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/2.88150e24.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/3.1e2a92d1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/4.26a8d3e6.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/5.62bd4b1b.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/6.0e230962.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/7.fc962e73.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/8.608e20e2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.212be63a.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.e176c4ea.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/notes/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/us/development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/us/frontEnd/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/us/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/us/notes/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/default-theme-config/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hero.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hero1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/1527950101034.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/android-chrome-192x192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/android-chrome-512x512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon-180x180.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/msapplication-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/mstile-150x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/icons/safari-pinned-tab.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/notes/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/us/development/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/us/frontEnd/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/us/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/us/notes/index.html" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/9.styles.caeb01f1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/img/search.83621669.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/0.cbedce54.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/1.668d28a5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/2.88150e24.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/3.1e2a92d1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/4.26a8d3e6.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/5.62bd4b1b.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/6.0e230962.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/7.fc962e73.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/8.608e20e2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.d8b491f3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/default-theme-config/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/development/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/frontEnd/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hero.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hero1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/1527950101034.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrome-192x192.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/android-chrome-512x512.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon-120x120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon-152x152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon-180x180.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon-60x60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon-76x76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/apple-touch-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/favicon-16x16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/favicon-32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/msapplication-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/mstile-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icons/safari-pinned-tab.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/notes/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/us/development/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/us/frontEnd/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/us/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/us/notes/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,7 +54,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="0.cbedce54.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/0.cbedce54.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -210,8 +180,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,15 +209,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528006671097</updated>
-      <workItem from="1528006672295" duration="1085000" />
+      <workItem from="1528006672295" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1085000" />
+    <option name="totallyTimeSpent" value="1212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="124" y="143" width="1143" height="964" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -256,7 +227,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24955437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24955437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -281,14 +252,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/0.cbedce54.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/app.e176c4ea.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -298,6 +261,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/assets/js/0.cbedce54.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/0.cbedce54.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
