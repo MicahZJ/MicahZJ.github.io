@@ -2,31 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94c7216-2f8a-4b01-9c22-c0967038caf7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/11.styles.1d0be62c.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/0.68a854cb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/1.ad50acc7.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/10.747851bb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/2.0b4b5519.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/3.5b65a17f.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/4.e6829c31.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/5.0fac0292.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/6.89f4fc5f.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/7.90e4acee.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/8.382e13cf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/9.94d6008d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.cce8146a.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/us/work-experience/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/work-experience/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.383b3690.js" />
       <change beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
       <change beforePath="$PROJECT_DIR$/default-theme-config/index.html" afterPath="$PROJECT_DIR$/default-theme-config/index.html" />
       <change beforePath="$PROJECT_DIR$/development/index.html" afterPath="$PROJECT_DIR$/development/index.html" />
       <change beforePath="$PROJECT_DIR$/frontEnd/index.html" afterPath="$PROJECT_DIR$/frontEnd/index.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/logo.png" afterPath="$PROJECT_DIR$/logo.png" />
       <change beforePath="$PROJECT_DIR$/notes/index.html" afterPath="$PROJECT_DIR$/notes/index.html" />
       <change beforePath="$PROJECT_DIR$/us/development/index.html" afterPath="$PROJECT_DIR$/us/development/index.html" />
       <change beforePath="$PROJECT_DIR$/us/frontEnd/index.html" afterPath="$PROJECT_DIR$/us/frontEnd/index.html" />
       <change beforePath="$PROJECT_DIR$/us/index.html" afterPath="$PROJECT_DIR$/us/index.html" />
       <change beforePath="$PROJECT_DIR$/us/notes/index.html" afterPath="$PROJECT_DIR$/us/notes/index.html" />
+      <change beforePath="$PROJECT_DIR$/us/work-experience/index.html" afterPath="$PROJECT_DIR$/us/work-experience/index.html" />
+      <change beforePath="$PROJECT_DIR$/work-experience/index.html" afterPath="$PROJECT_DIR$/work-experience/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,8 +67,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
-    <option name="y" value="67" />
+    <option name="x" value="419" />
+    <option name="y" value="101" />
     <option name="width" value="1143" />
     <option name="height" value="964" />
   </component>
@@ -199,15 +188,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528006671097</updated>
-      <workItem from="1528006672295" duration="4841000" />
+      <workItem from="1528006672295" duration="5675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4841000" />
+    <option name="totallyTimeSpent" value="5675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="67" width="1143" height="964" extended-state="0" />
+    <frame x="419" y="101" width="1143" height="964" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -271,6 +260,21 @@
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/favicon-32x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
