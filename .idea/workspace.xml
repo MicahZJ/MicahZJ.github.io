@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94c7216-2f8a-4b01-9c22-c0967038caf7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.383b3690.js" />
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change beforePath="$PROJECT_DIR$/default-theme-config/index.html" afterPath="$PROJECT_DIR$/default-theme-config/index.html" />
-      <change beforePath="$PROJECT_DIR$/development/index.html" afterPath="$PROJECT_DIR$/development/index.html" />
-      <change beforePath="$PROJECT_DIR$/frontEnd/index.html" afterPath="$PROJECT_DIR$/frontEnd/index.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/logo.png" afterPath="$PROJECT_DIR$/logo.png" />
-      <change beforePath="$PROJECT_DIR$/notes/index.html" afterPath="$PROJECT_DIR$/notes/index.html" />
-      <change beforePath="$PROJECT_DIR$/us/development/index.html" afterPath="$PROJECT_DIR$/us/development/index.html" />
-      <change beforePath="$PROJECT_DIR$/us/frontEnd/index.html" afterPath="$PROJECT_DIR$/us/frontEnd/index.html" />
-      <change beforePath="$PROJECT_DIR$/us/index.html" afterPath="$PROJECT_DIR$/us/index.html" />
-      <change beforePath="$PROJECT_DIR$/us/notes/index.html" afterPath="$PROJECT_DIR$/us/notes/index.html" />
-      <change beforePath="$PROJECT_DIR$/us/work-experience/index.html" afterPath="$PROJECT_DIR$/us/work-experience/index.html" />
-      <change beforePath="$PROJECT_DIR$/work-experience/index.html" afterPath="$PROJECT_DIR$/work-experience/index.html" />
-    </list>
+    <list default="true" id="b94c7216-2f8a-4b01-9c22-c0967038caf7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -66,8 +51,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="325" />
     <option name="y" value="101" />
     <option name="width" value="1143" />
     <option name="height" value="964" />
@@ -188,15 +173,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528006671097</updated>
-      <workItem from="1528006672295" duration="5675000" />
+      <workItem from="1528006672295" duration="5922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5675000" />
+    <option name="totallyTimeSpent" value="5922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="101" width="1143" height="964" extended-state="0" />
+    <frame x="325" y="101" width="1143" height="964" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
